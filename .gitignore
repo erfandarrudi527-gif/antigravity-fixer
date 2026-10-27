@@ -29,3 +29,11 @@ Thumbs.db
 # Any files that might contain credentials
 .env
 *.env
+
+node_modules/
+.next/
+.env*
+*.zip
+*.rar
+*.exe
+.freebuff/
